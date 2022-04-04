@@ -1,6 +1,4 @@
-# Read me
-
-### This is a pytorch implementation of Alexnet. The dataset adopts cifar-10. After the training is completed, the loss curve and the accuracy curve can be generated, and the corresponding confusion matrix can be generated at the same time.
+## This is a pytorch implementation of Alexnet. The dataset adopts cifar-10. After the training is completed, the loss curve and the accuracy curve can be generated, and the corresponding confusion matrix can be generated at the same time.
 
 ## How to use
 
